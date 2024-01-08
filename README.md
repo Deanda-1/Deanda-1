@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **recursive and traversals using node**
 
-- 🤝 I’m looking for help with **improving on coding**
+- 🤝 I’m looking for help with **improving my coding skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deanda-1](https://github.com/Deanda-1)
 
-- 💬 Ask me about **designing and front end of coding**
+- 💬 Ask me about **my designing and front end expertise**
 
 - 📫 How to reach me **jimmynoble604@gmail.com**
 
